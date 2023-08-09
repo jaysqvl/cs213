@@ -1,3 +1,3 @@
-# cs213
+# CS213
 Introduction to Computer Systems
 Partial Course Files
